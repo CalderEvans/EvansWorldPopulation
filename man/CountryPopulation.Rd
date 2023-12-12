@@ -14,7 +14,10 @@ A graph of a country's population from 1950 to 2020
 }
 \description{
 CountryPopulation is a function that takes the input of a country and returns
-a graph of that country's population from 1950 to 2020.
+a graph of that country's population from 1950 to 2020.You have to use the
+United Nations recognized name for that country. In the examples below you
+will notice that the graph for "Russia" did not work, this is because the
+offical name for Russia is "Russian Federation."
 }
 \examples{
 CountryPopulation("United States of America")
